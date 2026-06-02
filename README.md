@@ -1,0 +1,2 @@
+# carbon-trading-strategy-minutes
+碳交易市场策略会配额博弈纪要全栈系统——前端显示碳价K线图与减排曲线，后端处理交易员与分析师讨论，Whisper转写政策供需研判，pyannote区分买卖方，OpenAI生成交易策略与执行建议摘要，Markdown邮件发送投资决策委员会
